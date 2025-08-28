@@ -2,6 +2,8 @@
 
 A comprehensive collection of advanced SQL data pipeline implementations showcasing modern data engineering patterns and techniques using PostgreSQL. This repository demonstrates production-ready solutions for complex analytical workloads with real-world use cases.
 
+You can view more analytical queries related to this project here: [SQL-analytical-patterns](https://github.com/abdulrahman-khan/SQL-analytical-patterns )
+
 Features:
 - SCD Type 2 implementation for actor career tracking
 - Season-over-season performance analysis
